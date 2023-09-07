@@ -39,4 +39,5 @@ Despite the setbacks faced during the project, it allowed me to delve into an ar
 ## Dataset Links
 
 Cryptopunks: https://www.kaggle.com/datasets/tunguz/cryptopunks
+
 Cryptocorgis: https://github.com/CryptoCorgis/crypto-corgis/tree/main/images
